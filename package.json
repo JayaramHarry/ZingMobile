@@ -1,0 +1,18 @@
+{
+  "name": "zigmobile-assignment",
+  "version": "1.0.0",
+  "description": "This repository contains solutions to a coding assignment. The assignment consists of solving four different problems using Python programming language.",
+  "main": "database.js",
+  "scripts": {
+      "dev": "node database.js",
+      "build": "npm install",
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "react": "^18.3.1"
+  }
+}
